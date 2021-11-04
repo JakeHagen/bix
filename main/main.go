@@ -6,8 +6,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/brentp/bix"
-	"github.com/brentp/irelate/interfaces"
+	"github.com/jakehagen/bix"
+	"github.com/jakehagen/irelate/interfaces"
 )
 
 func check(e error) {

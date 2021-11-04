@@ -16,9 +16,9 @@ import (
 	"github.com/biogo/hts/bgzf"
 	"github.com/biogo/hts/bgzf/index"
 	"github.com/biogo/hts/tabix"
-	"github.com/brentp/irelate/interfaces"
-	"github.com/brentp/irelate/parsers"
-	"github.com/brentp/vcfgo"
+	"github.com/jakehagen/irelate/interfaces"
+	"github.com/jakehagen/irelate/parsers"
+	"github.com/jakehagen/vcfgo"
 	"github.com/pkg/errors"
 )
 
